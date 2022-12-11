@@ -1,0 +1,724 @@
+LOCUS       NP_663784               1550 aa            linear   VRL 13-AUG-2018
+DEFINITION  gag-pol fusion polyprotein [Human immunodeficiency virus 2].
+ACCESSION   NP_663784
+VERSION     NP_663784.1
+DBLINK      BioProject: PRJNA485481
+KEYWORDS    RefSeq.
+SOURCE      Human immunodeficiency virus 2 (HIV-2)
+  ORGANISM  Human immunodeficiency virus 2
+            Viruses; Riboviria; Pararnavirae; Artverviricota; Revtraviricetes;
+            Ortervirales; Retroviridae; Orthoretrovirinae; Lentivirus.
+DBSOURCE    REFSEQ: accession NC_001722.1
+REFERENCE   1
+  AUTHORS   Kirchhoff,F., Jentsch,K.D., Bachmann,B., Stuke,A., Laloux,C.,
+            Luke,W., Stahl-Hennig,C., Schneider,J., Nieselt,K., Eigen,M. et al.
+  TITLE     A novel proviral clone of HIV-2: biological and phylogenetic
+            relationship to other primate immunodeficiency viruses
+  JOURNAL   Virology 177 (1), 305-311 (1990)
+   PUBMED   2353457
+REFERENCE   2  (residues 1 to 1550)
+  AUTHORS   Kirchhoff,F., Jentsch,K., Bachmann,B., Stuke,A., Laloux,C.,
+            Lueke,W., Stahl-Henning,C., Schneider,J., Nieselt,K., Eigen,M. and
+            Hunsmann,G.
+  JOURNAL   Unpublished
+REFERENCE   3  (residues 1 to 1550)
+  CONSRTM   NCBI Genome Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-SEP-2004) National Center for Biotechnology
+            Information, NIH, Bethesda, MD 20894, USA
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to final
+            NCBI review. The reference sequence was derived from HIV2gp1.
+            Kindly submitted prior to publication by Dr. F. Kirchhoff, DPZ,
+            Gottingen, 0551/3851-0. HIV2BEN was isolated from a German AIDS
+            patient(with predominantly neurological complications) who was
+            probably infected in Mali (Klemm et al., J Neuro 235,304,1988). The
+            sequence was determined from two clones: bases 1903 to 5057 and
+            7293 to 9131 were from MK2 and bases 1 to 1902, 5058 to 7292 and
+            9132 to 10359 were from MK6.
+            [2]  sites; for [1].
+            Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..1550
+                     /organism="Human immunodeficiency virus 2"
+                     /proviral=""
+                     /isolate="BEN"
+                     /db_xref="taxon:11709"
+                     /clone="MK[2,6]."
+     Protein         1..1550
+                     /product="gag-pol fusion polyprotein"
+                     /calculated_mol_wt="174378"
+     Region          2..135
+                     /region_name="Gag_p17"
+                     /note="gag gene protein p17 (matrix protein); pfam00540"
+                     /db_xref="CDD:249943"
+     Region          145..274
+                     /region_name="Gag_p24"
+                     /note="gag gene protein p24 (core nucleocapsid protein);
+                     pfam00607"
+                     /db_xref="CDD:425774"
+     Region          280..351
+                     /region_name="Gag_p24_C"
+                     /note="Gag protein p24 C-terminal domain; pfam19317"
+                     /db_xref="CDD:437149"
+     Region          350..>455
+                     /region_name="PTZ00368"
+                     /note="universal minicircle sequence binding protein
+                     (UMSBP); Provisional"
+                     /db_xref="CDD:173561"
+     Region          523..603
+                     /region_name="HIV_retropepsin_like"
+                     /note="Retropepsins, pepsin-like aspartate proteases;
+                     cd05482"
+                     /db_xref="CDD:133149"
+     Site            order(537,539,541,558..560,596)
+                     /site_type="active"
+                     /note="inhibitor binding site [active]"
+                     /db_xref="CDD:133149"
+     Site            537..539
+                     /site_type="active"
+                     /note="catalytic motif [active]"
+                     /db_xref="CDD:133149"
+     Site            537
+                     /site_type="active"
+                     /note="Catalytic residue [active]"
+                     /db_xref="CDD:133149"
+     Site            order(558..562,564..568)
+                     /site_type="active"
+                     /note="Active site flap [active]"
+                     /db_xref="CDD:133149"
+     Region          629..845
+                     /region_name="RT_like"
+                     /note="Reverse transcriptase (RT, RNA-dependent DNA
+                     polymerase)_like family. An RT gene is usually indicative
+                     of a mobile element such as a retrotransposon or
+                     retrovirus. RTs occur in a variety of mobile elements,
+                     including retrotransposons, retroviruses, group...;
+                     cl02808"
+                     /db_xref="CDD:445932"
+     Site            order(721..726,762..763,794,796..797,841..842)
+                     /site_type="active"
+                     /db_xref="CDD:238185"
+     Site            order(721..726,762,796)
+                     /site_type="other"
+                     /note="NTP binding site [chemical binding]"
+                     /db_xref="CDD:238185"
+     Site            763
+                     /site_type="other"
+                     /note="nucleic acid binding site [nucleotide binding]"
+                     /db_xref="CDD:238185"
+     Region          852..907
+                     /region_name="RVT_thumb"
+                     /note="Reverse transcriptase thumb domain; pfam06817"
+                     /db_xref="CDD:429135"
+     Region          929..1029
+                     /region_name="RVT_connect"
+                     /note="Reverse transcriptase connection domain; pfam06815"
+                     /db_xref="CDD:429133"
+     Region          1045..1167
+                     /region_name="RNase_H"
+                     /note="RNase H; pfam00075"
+                     /db_xref="CDD:395028"
+     Site            order(1053..1056,1084..1085,1088,1108,1145,1163)
+                     /site_type="other"
+                     /note="RNA/DNA hybrid binding site [nucleotide binding]"
+                     /db_xref="CDD:259998"
+     Region          1180..1215
+                     /region_name="Integrase_Zn"
+                     /note="Integrase Zinc binding domain; pfam02022"
+                     /db_xref="CDD:426567"
+     Region          1229..1315
+                     /region_name="rve"
+                     /note="Integrase core domain; pfam00665"
+                     /db_xref="CDD:425808"
+     Region          1395..1438
+                     /region_name="IN_DBD_C"
+                     /note="Integrase DNA binding domain; pfam00552"
+                     /db_xref="CDD:425747"
+     CDS             1..1550
+                     /gene="gag-pol"
+                     /locus_tag="HIV2gp1"
+                     /coded_by="join(NC_001722.1:1103..2398,
+                     NC_001722.1:2398..5754)"
+                     /ribosomal_slippage=""
+                     /note="translated by ribosomal slip at 'TTTTTTA'"
+                     /db_xref="GeneID:1490001"
+ORIGIN
+        1 mgarnsvlrg kkadelekvr lrpggkkkyr lkhivwaane ldkfglaesl leskegcqki
+       61 lrvldplvpt gsenlkslfn tvcviwclha eekvkdteea kklaqrhlva etgtaekmpn
+      121 tsrptappsg krgnypvqqa ggnyvhvpls prtlnawvkl veekkfgaev vpgfqalseg
+      181 ctpydinqml ncvgdhqaam qiireiinee aadwdsqhpi pgplpagqlr dprgsdiagt
+      241 tstvdeqiqw myrpqnpvpv gniyrrwiqi glqkcvrkyn ptnildikqg pkepfqsyvd
+      301 rfykslraeq tdpavknwmt qtlliqnanp dcklvlkglg mnptleemlt acqgvggpgq
+      361 karlmaealk eamgpspipf aaaqqrkair ywncgkeghs arqcraprrq gcwkcgkpgh
+      421 imancperqa gffrvgptgk easqlprdps psgadtnsts grsssgtvge iyaarekaeg
+      481 aegetiqrgd gglaapraer dtsqrgdrgl aapqfslwkr pvvtayiedq pvevlldtga
+      541 ddsivagiel gdnytpkivg giggfintke yknveikvln krvratimtg dtpinifgrn
+      601 iltalgmsln lpvakiepik vtlkpgkdgp rlkqwpltke kiealkeice kmekegqlee
+      661 apptnpyntp tfaikkkdkn kwrmlidfre lnkvtqdfte iqlgiphpag lakkkrisil
+      721 dvgdayfsip lhedfrqyta ftlpavnnme pgkryiykvl pqgwkgspai fqytmrqvle
+      781 pfrkanpdvi liqymddili asdrtglehd kvvlqlkell nglgfstpde kfqkdppfqw
+      841 mgcelwptkw klqklqlpqk diwtvndiqk lvgvlnwaaq iysgiktkhl crlirgkmtl
+      901 teevqwtela eaeleenkii lsqeqegyyy qeekeleati qksqghqwty kihqeekilk
+      961 vgkyakiknt htngvrllaq vvqkigkeal viwgripkfh lpveretweq wwdnywqvtw
+     1021 ipewdfvstp plvrltfnlv gdpipgaetf ytdgscnrqs kegkagyvtd rgkdkvkvle
+     1081 qttnqqaele vfrmaladsg pkvniivdsq yvmgivagqp tesenrivnq iieemikkea
+     1141 vyvawvpahk giggnqevdh lvsqgirqvl flekiepaqe ehekyhsiik elthkfgipl
+     1201 lvarqivnsc aqcqqkgeai hgqvnaeigv wqmdythleg kiiivavhva sgfieaevip
+     1261 qesgrqtalf llklasrwpi thlhtdngpn ftsqevkmva wwvgieqsfg vpynpqsqgv
+     1321 veamnhhlkn qisrireqan tietivlmav hcmnfkrrgg igdmtpaerl inmitteqei
+     1381 qflqrknsnf knfqvyyreg rdqlwkgpge llwkgegavi vkvgtdikvv prrkakiird
+     1441 yggrqeldss phlegaredg emacpcqvpe iqnkrprgga lcsppqggmg mvdlqqgnip
+     1501 ttrkkssrnt gilepntrkr mallscskin lvyrkvldrc yprlcrhpnt
+//
+LOCUS       NP_056837                521 aa            linear   VRL 13-AUG-2018
+DEFINITION  gag polyprotein [Human immunodeficiency virus 2].
+ACCESSION   NP_056837
+VERSION     NP_056837.1
+DBLINK      BioProject: PRJNA485481
+KEYWORDS    RefSeq.
+SOURCE      Human immunodeficiency virus 2 (HIV-2)
+  ORGANISM  Human immunodeficiency virus 2
+            Viruses; Riboviria; Pararnavirae; Artverviricota; Revtraviricetes;
+            Ortervirales; Retroviridae; Orthoretrovirinae; Lentivirus.
+DBSOURCE    REFSEQ: accession NC_001722.1
+REFERENCE   1
+  AUTHORS   Kirchhoff,F., Jentsch,K.D., Bachmann,B., Stuke,A., Laloux,C.,
+            Luke,W., Stahl-Hennig,C., Schneider,J., Nieselt,K., Eigen,M. et al.
+  TITLE     A novel proviral clone of HIV-2: biological and phylogenetic
+            relationship to other primate immunodeficiency viruses
+  JOURNAL   Virology 177 (1), 305-311 (1990)
+   PUBMED   2353457
+REFERENCE   2  (residues 1 to 521)
+  AUTHORS   Kirchhoff,F., Jentsch,K., Bachmann,B., Stuke,A., Laloux,C.,
+            Lueke,W., Stahl-Henning,C., Schneider,J., Nieselt,K., Eigen,M. and
+            Hunsmann,G.
+  JOURNAL   Unpublished
+REFERENCE   3  (residues 1 to 521)
+  CONSRTM   NCBI Genome Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-SEP-2004) National Center for Biotechnology
+            Information, NIH, Bethesda, MD 20894, USA
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to final
+            NCBI review. The reference sequence was derived from AAB00736.
+            Kindly submitted prior to publication by Dr. F. Kirchhoff, DPZ,
+            Gottingen, 0551/3851-0. HIV2BEN was isolated from a German AIDS
+            patient(with predominantly neurological complications) who was
+            probably infected in Mali (Klemm et al., J Neuro 235,304,1988). The
+            sequence was determined from two clones: bases 1903 to 5057 and
+            7293 to 9131 were from MK2 and bases 1 to 1902, 5058 to 7292 and
+            9132 to 10359 were from MK6.
+            [2]  sites; for [1].
+            Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..521
+                     /organism="Human immunodeficiency virus 2"
+                     /proviral=""
+                     /isolate="BEN"
+                     /db_xref="taxon:11709"
+                     /clone="MK[2,6]."
+     Protein         1..521
+                     /product="gag polyprotein"
+                     /calculated_mol_wt="58233"
+     Region          2..135
+                     /region_name="Gag_p17"
+                     /note="gag gene protein p17 (matrix protein); pfam00540"
+                     /db_xref="CDD:249943"
+     Region          145..274
+                     /region_name="Gag_p24"
+                     /note="gag gene protein p24 (core nucleocapsid protein);
+                     pfam00607"
+                     /db_xref="CDD:425774"
+     Region          280..351
+                     /region_name="Gag_p24_C"
+                     /note="Gag protein p24 C-terminal domain; pfam19317"
+                     /db_xref="CDD:437149"
+     Region          350..>431
+                     /region_name="PTZ00368"
+                     /note="universal minicircle sequence binding protein
+                     (UMSBP); Provisional"
+                     /db_xref="CDD:173561"
+     CDS             1..521
+                     /gene="gag-pol"
+                     /locus_tag="HIV2gp1"
+                     /coded_by="NC_001722.1:1103..2668"
+                     /db_xref="GeneID:1490001"
+ORIGIN
+        1 mgarnsvlrg kkadelekvr lrpggkkkyr lkhivwaane ldkfglaesl leskegcqki
+       61 lrvldplvpt gsenlkslfn tvcviwclha eekvkdteea kklaqrhlva etgtaekmpn
+      121 tsrptappsg krgnypvqqa ggnyvhvpls prtlnawvkl veekkfgaev vpgfqalseg
+      181 ctpydinqml ncvgdhqaam qiireiinee aadwdsqhpi pgplpagqlr dprgsdiagt
+      241 tstvdeqiqw myrpqnpvpv gniyrrwiqi glqkcvrkyn ptnildikqg pkepfqsyvd
+      301 rfykslraeq tdpavknwmt qtlliqnanp dcklvlkglg mnptleemlt acqgvggpgq
+      361 karlmaealk eamgpspipf aaaqqrkair ywncgkeghs arqcraprrq gcwkcgkpgh
+      421 imancperqa gflglgprgk kprnfpvtqa pqgliptapp adpaaeller ymqqgrkqre
+      481 qrerpykevt edllhleqre tphreetedl lhlnslfgkd q
+//
+LOCUS       NP_056839                215 aa            linear   VRL 13-AUG-2018
+DEFINITION  vif protein [Human immunodeficiency virus 2].
+ACCESSION   NP_056839
+VERSION     NP_056839.1
+DBLINK      BioProject: PRJNA485481
+KEYWORDS    RefSeq.
+SOURCE      Human immunodeficiency virus 2 (HIV-2)
+  ORGANISM  Human immunodeficiency virus 2
+            Viruses; Riboviria; Pararnavirae; Artverviricota; Revtraviricetes;
+            Ortervirales; Retroviridae; Orthoretrovirinae; Lentivirus.
+DBSOURCE    REFSEQ: accession NC_001722.1
+REFERENCE   1
+  AUTHORS   Kirchhoff,F., Jentsch,K.D., Bachmann,B., Stuke,A., Laloux,C.,
+            Luke,W., Stahl-Hennig,C., Schneider,J., Nieselt,K., Eigen,M. et al.
+  TITLE     A novel proviral clone of HIV-2: biological and phylogenetic
+            relationship to other primate immunodeficiency viruses
+  JOURNAL   Virology 177 (1), 305-311 (1990)
+   PUBMED   2353457
+REFERENCE   2  (residues 1 to 215)
+  AUTHORS   Kirchhoff,F., Jentsch,K., Bachmann,B., Stuke,A., Laloux,C.,
+            Lueke,W., Stahl-Henning,C., Schneider,J., Nieselt,K., Eigen,M. and
+            Hunsmann,G.
+  JOURNAL   Unpublished
+REFERENCE   3  (residues 1 to 215)
+  CONSRTM   NCBI Genome Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-SEP-2004) National Center for Biotechnology
+            Information, NIH, Bethesda, MD 20894, USA
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to final
+            NCBI review. The reference sequence was derived from AAB00738.
+            Kindly submitted prior to publication by Dr. F. Kirchhoff, DPZ,
+            Gottingen, 0551/3851-0. HIV2BEN was isolated from a German AIDS
+            patient(with predominantly neurological complications) who was
+            probably infected in Mali (Klemm et al., J Neuro 235,304,1988). The
+            sequence was determined from two clones: bases 1903 to 5057 and
+            7293 to 9131 were from MK2 and bases 1 to 1902, 5058 to 7292 and
+            9132 to 10359 were from MK6.
+            [2]  sites; for [1].
+            Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..215
+                     /organism="Human immunodeficiency virus 2"
+                     /proviral=""
+                     /isolate="BEN"
+                     /db_xref="taxon:11709"
+                     /clone="MK[2,6]."
+     Protein         1..215
+                     /product="vif protein"
+                     /calculated_mol_wt="25181"
+     Region          4..195
+                     /region_name="Vif"
+                     /note="Retroviral Vif (Viral infectivity) protein;
+                     pfam00559"
+                     /db_xref="CDD:278957"
+     CDS             1..215
+                     /locus_tag="HIV2gp2"
+                     /coded_by="NC_001722.1:5423..6070"
+                     /db_xref="GeneID:1724712"
+ORIGIN
+        1 meedrnwivv ptwrvpgrme kwhalvkylk yrtkdleevr yvphhkvgwa wwtcsrvifp
+       61 lqgkshleiq aywnltpekg wlsshavrlt wytekfwtdv tpdcadilih styfscftag
+      121 evrrairgek llsccnypqa hkaqvpslqy lalvvvqqnd rpqrkgtark qwrrdhwrgl
+      181 rvaredhrsl kqggsepsap rahfpgvakv leila
+//
+LOCUS       NP_056840                113 aa            linear   VRL 13-AUG-2018
+DEFINITION  vpx protein [Human immunodeficiency virus 2].
+ACCESSION   NP_056840
+VERSION     NP_056840.1
+DBLINK      BioProject: PRJNA485481
+KEYWORDS    RefSeq.
+SOURCE      Human immunodeficiency virus 2 (HIV-2)
+  ORGANISM  Human immunodeficiency virus 2
+            Viruses; Riboviria; Pararnavirae; Artverviricota; Revtraviricetes;
+            Ortervirales; Retroviridae; Orthoretrovirinae; Lentivirus.
+DBSOURCE    REFSEQ: accession NC_001722.1
+REFERENCE   1
+  AUTHORS   Kirchhoff,F., Jentsch,K.D., Bachmann,B., Stuke,A., Laloux,C.,
+            Luke,W., Stahl-Hennig,C., Schneider,J., Nieselt,K., Eigen,M. et al.
+  TITLE     A novel proviral clone of HIV-2: biological and phylogenetic
+            relationship to other primate immunodeficiency viruses
+  JOURNAL   Virology 177 (1), 305-311 (1990)
+   PUBMED   2353457
+REFERENCE   2  (residues 1 to 113)
+  AUTHORS   Kirchhoff,F., Jentsch,K., Bachmann,B., Stuke,A., Laloux,C.,
+            Lueke,W., Stahl-Henning,C., Schneider,J., Nieselt,K., Eigen,M. and
+            Hunsmann,G.
+  JOURNAL   Unpublished
+REFERENCE   3  (residues 1 to 113)
+  CONSRTM   NCBI Genome Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-SEP-2004) National Center for Biotechnology
+            Information, NIH, Bethesda, MD 20894, USA
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to final
+            NCBI review. The reference sequence was derived from AAB00739.
+            Kindly submitted prior to publication by Dr. F. Kirchhoff, DPZ,
+            Gottingen, 0551/3851-0. HIV2BEN was isolated from a German AIDS
+            patient(with predominantly neurological complications) who was
+            probably infected in Mali (Klemm et al., J Neuro 235,304,1988). The
+            sequence was determined from two clones: bases 1903 to 5057 and
+            7293 to 9131 were from MK2 and bases 1 to 1902, 5058 to 7292 and
+            9132 to 10359 were from MK6.
+            [2]  sites; for [1].
+            Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..113
+                     /organism="Human immunodeficiency virus 2"
+                     /proviral=""
+                     /isolate="BEN"
+                     /db_xref="taxon:11709"
+                     /clone="MK[2,6]."
+     Protein         1..113
+                     /product="vpx protein"
+                     /calculated_mol_wt="13077"
+     Region          5..98
+                     /region_name="VPR"
+                     /note="VPR/VPX protein; pfam00522"
+                     /db_xref="CDD:278923"
+     CDS             1..113
+                     /locus_tag="HIV2gp3"
+                     /coded_by="NC_001722.1:5898..6239"
+                     /db_xref="GeneID:1724714"
+ORIGIN
+        1 mtdprervpp gnsgeetige afewlertie alnreavnhl prelifqvwq rswrywhdeq
+       61 gmsasytkyr ylclmqkaif thfkrgctcw gedmgregle dqgppppppp glv
+//
+LOCUS       NP_056841                 87 aa            linear   VRL 13-AUG-2018
+DEFINITION  vpr protein [Human immunodeficiency virus 2].
+ACCESSION   NP_056841
+VERSION     NP_056841.1
+DBLINK      BioProject: PRJNA485481
+KEYWORDS    RefSeq.
+SOURCE      Human immunodeficiency virus 2 (HIV-2)
+  ORGANISM  Human immunodeficiency virus 2
+            Viruses; Riboviria; Pararnavirae; Artverviricota; Revtraviricetes;
+            Ortervirales; Retroviridae; Orthoretrovirinae; Lentivirus.
+DBSOURCE    REFSEQ: accession NC_001722.1
+REFERENCE   1
+  AUTHORS   Kirchhoff,F., Jentsch,K.D., Bachmann,B., Stuke,A., Laloux,C.,
+            Luke,W., Stahl-Hennig,C., Schneider,J., Nieselt,K., Eigen,M. et al.
+  TITLE     A novel proviral clone of HIV-2: biological and phylogenetic
+            relationship to other primate immunodeficiency viruses
+  JOURNAL   Virology 177 (1), 305-311 (1990)
+   PUBMED   2353457
+REFERENCE   2  (residues 1 to 87)
+  AUTHORS   Kirchhoff,F., Jentsch,K., Bachmann,B., Stuke,A., Laloux,C.,
+            Lueke,W., Stahl-Henning,C., Schneider,J., Nieselt,K., Eigen,M. and
+            Hunsmann,G.
+  JOURNAL   Unpublished
+REFERENCE   3  (residues 1 to 87)
+  CONSRTM   NCBI Genome Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-SEP-2004) National Center for Biotechnology
+            Information, NIH, Bethesda, MD 20894, USA
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to final
+            NCBI review. The reference sequence was derived from AAB00740.
+            Kindly submitted prior to publication by Dr. F. Kirchhoff, DPZ,
+            Gottingen, 0551/3851-0. HIV2BEN was isolated from a German AIDS
+            patient(with predominantly neurological complications) who was
+            probably infected in Mali (Klemm et al., J Neuro 235,304,1988). The
+            sequence was determined from two clones: bases 1903 to 5057 and
+            7293 to 9131 were from MK2 and bases 1 to 1902, 5058 to 7292 and
+            9132 to 10359 were from MK6.
+            [2]  sites; for [1].
+            Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..87
+                     /organism="Human immunodeficiency virus 2"
+                     /proviral=""
+                     /isolate="BEN"
+                     /db_xref="taxon:11709"
+                     /clone="MK[2,6]."
+     Protein         1..87
+                     /product="vpr protein"
+                     /calculated_mol_wt="9940"
+     Region          6..87
+                     /region_name="VPR"
+                     /note="VPR/VPX protein; pfam00522"
+                     /db_xref="CDD:278923"
+     CDS             1..87
+                     /locus_tag="HIV2gp4"
+                     /coded_by="NC_001722.1:6239..6502"
+                     /db_xref="GeneID:1724718"
+ORIGIN
+        1 mteaptefpp edgtprrdlg sdwvietlre ikeealrhfd prllialgyy ihnrhgdtle
+       61 gareliktlq ralfvhfrag cnrsrig
+//
+LOCUS       NP_056842                130 aa            linear   VRL 13-AUG-2018
+DEFINITION  tat protein [Human immunodeficiency virus 2].
+ACCESSION   NP_056842
+VERSION     NP_056842.1
+DBLINK      BioProject: PRJNA485481
+KEYWORDS    RefSeq.
+SOURCE      Human immunodeficiency virus 2 (HIV-2)
+  ORGANISM  Human immunodeficiency virus 2
+            Viruses; Riboviria; Pararnavirae; Artverviricota; Revtraviricetes;
+            Ortervirales; Retroviridae; Orthoretrovirinae; Lentivirus.
+DBSOURCE    REFSEQ: accession NC_001722.1
+REFERENCE   1
+  AUTHORS   Kirchhoff,F., Jentsch,K.D., Bachmann,B., Stuke,A., Laloux,C.,
+            Luke,W., Stahl-Hennig,C., Schneider,J., Nieselt,K., Eigen,M. et al.
+  TITLE     A novel proviral clone of HIV-2: biological and phylogenetic
+            relationship to other primate immunodeficiency viruses
+  JOURNAL   Virology 177 (1), 305-311 (1990)
+   PUBMED   2353457
+REFERENCE   2  (residues 1 to 130)
+  AUTHORS   Kirchhoff,F., Jentsch,K., Bachmann,B., Stuke,A., Laloux,C.,
+            Lueke,W., Stahl-Henning,C., Schneider,J., Nieselt,K., Eigen,M. and
+            Hunsmann,G.
+  JOURNAL   Unpublished
+REFERENCE   3  (residues 1 to 130)
+  CONSRTM   NCBI Genome Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-SEP-2004) National Center for Biotechnology
+            Information, NIH, Bethesda, MD 20894, USA
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to final
+            NCBI review. The reference sequence was derived from AAB00741.
+            Kindly submitted prior to publication by Dr. F. Kirchhoff, DPZ,
+            Gottingen, 0551/3851-0. HIV2BEN was isolated from a German AIDS
+            patient(with predominantly neurological complications) who was
+            probably infected in Mali (Klemm et al., J Neuro 235,304,1988). The
+            sequence was determined from two clones: bases 1903 to 5057 and
+            7293 to 9131 were from MK2 and bases 1 to 1902, 5058 to 7292 and
+            9132 to 10359 were from MK6.
+            [2]  sites; for [1].
+            Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..130
+                     /organism="Human immunodeficiency virus 2"
+                     /proviral=""
+                     /isolate="BEN"
+                     /db_xref="taxon:11709"
+                     /clone="MK[2,6]."
+     Protein         1..130
+                     /product="tat protein"
+                     /calculated_mol_wt="14332"
+     Region          <45..>77
+                     /region_name="Tat"
+                     /note="Transactivating regulatory protein (Tat); pfam00539"
+                     /db_xref="CDD:306921"
+     CDS             1..130
+                     /locus_tag="HIV2gp5"
+                     /coded_by="join(NC_001722.1:6402..6697,
+                     NC_001722.1:8861..8957)"
+                     /db_xref="GeneID:1724713"
+ORIGIN
+        1 metplkapes slkpynepss ctserdvtaq elakqgeell aqlhrplepc tnkcyckrcs
+       61 fhcqlcfskk glgisyerkg rrrrtprktk tpspsapdks istrtgdsqp tkeqkktsea
+      121 tvvttcglgq
+//
+LOCUS       NP_056843                103 aa            linear   VRL 13-AUG-2018
+DEFINITION  rev protein [Human immunodeficiency virus 2].
+ACCESSION   NP_056843
+VERSION     NP_056843.1
+DBLINK      BioProject: PRJNA485481
+KEYWORDS    RefSeq.
+SOURCE      Human immunodeficiency virus 2 (HIV-2)
+  ORGANISM  Human immunodeficiency virus 2
+            Viruses; Riboviria; Pararnavirae; Artverviricota; Revtraviricetes;
+            Ortervirales; Retroviridae; Orthoretrovirinae; Lentivirus.
+DBSOURCE    REFSEQ: accession NC_001722.1
+REFERENCE   1
+  AUTHORS   Kirchhoff,F., Jentsch,K.D., Bachmann,B., Stuke,A., Laloux,C.,
+            Luke,W., Stahl-Hennig,C., Schneider,J., Nieselt,K., Eigen,M. et al.
+  TITLE     A novel proviral clone of HIV-2: biological and phylogenetic
+            relationship to other primate immunodeficiency viruses
+  JOURNAL   Virology 177 (1), 305-311 (1990)
+   PUBMED   2353457
+REFERENCE   2  (residues 1 to 103)
+  AUTHORS   Kirchhoff,F., Jentsch,K., Bachmann,B., Stuke,A., Laloux,C.,
+            Lueke,W., Stahl-Henning,C., Schneider,J., Nieselt,K., Eigen,M. and
+            Hunsmann,G.
+  JOURNAL   Unpublished
+REFERENCE   3  (residues 1 to 103)
+  CONSRTM   NCBI Genome Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-SEP-2004) National Center for Biotechnology
+            Information, NIH, Bethesda, MD 20894, USA
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to final
+            NCBI review. The reference sequence was derived from AAB00742.
+            Kindly submitted prior to publication by Dr. F. Kirchhoff, DPZ,
+            Gottingen, 0551/3851-0. HIV2BEN was isolated from a German AIDS
+            patient(with predominantly neurological complications) who was
+            probably infected in Mali (Klemm et al., J Neuro 235,304,1988). The
+            sequence was determined from two clones: bases 1903 to 5057 and
+            7293 to 9131 were from MK2 and bases 1 to 1902, 5058 to 7292 and
+            9132 to 10359 were from MK6.
+            [2]  sites; for [1].
+            Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..103
+                     /organism="Human immunodeficiency virus 2"
+                     /proviral=""
+                     /isolate="BEN"
+                     /db_xref="taxon:11709"
+                     /clone="MK[2,6]."
+     Protein         1..103
+                     /product="rev protein"
+                     /calculated_mol_wt="11661"
+     Region          1..89
+                     /region_name="REV"
+                     /note="REV protein (anti-repression trans-activator
+                     protein); pfam00424"
+                     /db_xref="CDD:366091"
+     CDS             1..103
+                     /locus_tag="HIV2gp6"
+                     /coded_by="join(NC_001722.1:6628..6697,
+                     NC_001722.1:8861..9102)"
+                     /db_xref="GeneID:1724716"
+ORIGIN
+        1 mseradeegl qgklrllrll hqtnpypqgp gtasqrrnrr rrrrrqwlrl valanklcav
+       61 pdpptdspld raiqhlqrlt iqelpdpptd lpesnsnqgl aet
+//
+LOCUS       NP_056844                860 aa            linear   VRL 13-AUG-2018
+DEFINITION  env polyprotein [Human immunodeficiency virus 2].
+ACCESSION   NP_056844
+VERSION     NP_056844.1
+DBLINK      BioProject: PRJNA485481
+KEYWORDS    RefSeq.
+SOURCE      Human immunodeficiency virus 2 (HIV-2)
+  ORGANISM  Human immunodeficiency virus 2
+            Viruses; Riboviria; Pararnavirae; Artverviricota; Revtraviricetes;
+            Ortervirales; Retroviridae; Orthoretrovirinae; Lentivirus.
+DBSOURCE    REFSEQ: accession NC_001722.1
+REFERENCE   1
+  AUTHORS   Kirchhoff,F., Jentsch,K.D., Bachmann,B., Stuke,A., Laloux,C.,
+            Luke,W., Stahl-Hennig,C., Schneider,J., Nieselt,K., Eigen,M. et al.
+  TITLE     A novel proviral clone of HIV-2: biological and phylogenetic
+            relationship to other primate immunodeficiency viruses
+  JOURNAL   Virology 177 (1), 305-311 (1990)
+   PUBMED   2353457
+REFERENCE   2  (residues 1 to 860)
+  AUTHORS   Kirchhoff,F., Jentsch,K., Bachmann,B., Stuke,A., Laloux,C.,
+            Lueke,W., Stahl-Henning,C., Schneider,J., Nieselt,K., Eigen,M. and
+            Hunsmann,G.
+  JOURNAL   Unpublished
+REFERENCE   3  (residues 1 to 860)
+  CONSRTM   NCBI Genome Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-SEP-2004) National Center for Biotechnology
+            Information, NIH, Bethesda, MD 20894, USA
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to final
+            NCBI review. The reference sequence was derived from AAB00743.
+            Kindly submitted prior to publication by Dr. F. Kirchhoff, DPZ,
+            Gottingen, 0551/3851-0. HIV2BEN was isolated from a German AIDS
+            patient(with predominantly neurological complications) who was
+            probably infected in Mali (Klemm et al., J Neuro 235,304,1988). The
+            sequence was determined from two clones: bases 1903 to 5057 and
+            7293 to 9131 were from MK2 and bases 1 to 1902, 5058 to 7292 and
+            9132 to 10359 were from MK6.
+            [2]  sites; for [1].
+            Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..860
+                     /organism="Human immunodeficiency virus 2"
+                     /proviral=""
+                     /isolate="BEN"
+                     /db_xref="taxon:11709"
+                     /clone="MK[2,6]."
+     Protein         1..860
+                     /product="env polyprotein"
+                     /calculated_mol_wt="98801"
+     Region          24..510
+                     /region_name="GP120"
+                     /note="Envelope glycoprotein GP120; pfam00516"
+                     /db_xref="CDD:278917"
+     Region          528..727
+                     /region_name="GP41"
+                     /note="Retroviral envelope protein; pfam00517"
+                     /db_xref="CDD:395415"
+     Site            order(537..556,559..591)
+                     /site_type="other"
+                     /note="HR1"
+                     /db_xref="CDD:197369"
+     Site            order(539,541..543,545..550,552..556,559..564,566..571,
+                     573..575,577..578,580..581,584..585,587..589,591..600,604,
+                     606,608,617..618,621..622,625,628..629,632..633,635..636,
+                     639..640,642..643,646..647,653..654,657)
+                     /site_type="other"
+                     /note="homotrimer interface [polypeptide binding]"
+                     /db_xref="CDD:197369"
+     Site            order(617..636,638..649,651..659)
+                     /site_type="other"
+                     /note="HR2"
+                     /db_xref="CDD:197369"
+     CDS             1..860
+                     /locus_tag="HIV2gp7"
+                     /coded_by="NC_001722.1:6704..9286"
+                     /db_xref="GeneID:1724717"
+ORIGIN
+        1 mepgrnqlfv villtsaclv ycsqyvtvfy gipawknasi plfcatknrd twgtiqclpd
+       61 nddyqeiiln vteafdawnn tvteqavedv whlfetsikp cvkltplcva mncsrvqgnt
+      121 ttpnprtsss ttsrpptsaa siinetsnci enntcaglgy eemmqcefnm kgleqdkkrr
+      181 ykdtwyledv vcdnttagtc ymrhcntsii kescdkhywd amrfrycapp gfallrcndt
+      241 nysgfepkct kvvaasctrm metqtstwfg fngtraenrt yiywhgrdnr tiislnkyyn
+      301 ltmrckrpgn ktvlpitlms glvfhsqpin trprqawcrf ggrwreamqe vkqtlvqhpr
+      361 ykgindtgki nftkpgagsd pevafmwtnc rgeflycnmt wflnwvedkn qtrrnychik
+      421 qiintwhkvg knvylppreg elacestvts iianididkn rthtnitfsa evaelyrlel
+      481 gdyklieitp igfaptdqrr ysstpvrnkr gvfvlgflgf latagsamga rsltlsaqsr
+      541 tllagivqqq qqlldvvkrq qemlrltvwg tknlqarvta iekylkhqaq lnswgcafrq
+      601 vchttvpwvn dslspdwknm twqewekqvr yleanisqsl eeaqiqqekn myelqklnsw
+      661 dilgnwfdlt swvkyiqygv hivvgiialr iaiyvvqlls rfrkgyrpvf ssppgylqqi
+      721 hihkdrgqpa negteedvgg dsgydlwpwp inyvqflihl ltrlliglyn icrdllskns
+      781 ptrrlisqsl tairdwlrlk aaqlqygcew iqeafqafar ttretlagaw gwlweaarri
+      841 grgilavprr irqgaelall
+//
+LOCUS       NP_056845                257 aa            linear   VRL 13-AUG-2018
+DEFINITION  nef protein [Human immunodeficiency virus 2].
+ACCESSION   NP_056845
+VERSION     NP_056845.1
+DBLINK      BioProject: PRJNA485481
+KEYWORDS    RefSeq.
+SOURCE      Human immunodeficiency virus 2 (HIV-2)
+  ORGANISM  Human immunodeficiency virus 2
+            Viruses; Riboviria; Pararnavirae; Artverviricota; Revtraviricetes;
+            Ortervirales; Retroviridae; Orthoretrovirinae; Lentivirus.
+DBSOURCE    REFSEQ: accession NC_001722.1
+REFERENCE   1
+  AUTHORS   Kirchhoff,F., Jentsch,K.D., Bachmann,B., Stuke,A., Laloux,C.,
+            Luke,W., Stahl-Hennig,C., Schneider,J., Nieselt,K., Eigen,M. et al.
+  TITLE     A novel proviral clone of HIV-2: biological and phylogenetic
+            relationship to other primate immunodeficiency viruses
+  JOURNAL   Virology 177 (1), 305-311 (1990)
+   PUBMED   2353457
+REFERENCE   2  (residues 1 to 257)
+  AUTHORS   Kirchhoff,F., Jentsch,K., Bachmann,B., Stuke,A., Laloux,C.,
+            Lueke,W., Stahl-Henning,C., Schneider,J., Nieselt,K., Eigen,M. and
+            Hunsmann,G.
+  JOURNAL   Unpublished
+REFERENCE   3  (residues 1 to 257)
+  CONSRTM   NCBI Genome Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-SEP-2004) National Center for Biotechnology
+            Information, NIH, Bethesda, MD 20894, USA
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to final
+            NCBI review. The reference sequence was derived from AAB00744.
+            Kindly submitted prior to publication by Dr. F. Kirchhoff, DPZ,
+            Gottingen, 0551/3851-0. HIV2BEN was isolated from a German AIDS
+            patient(with predominantly neurological complications) who was
+            probably infected in Mali (Klemm et al., J Neuro 235,304,1988). The
+            sequence was determined from two clones: bases 1903 to 5057 and
+            7293 to 9131 were from MK2 and bases 1 to 1902, 5058 to 7292 and
+            9132 to 10359 were from MK6.
+            [2]  sites; for [1].
+            Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..257
+                     /organism="Human immunodeficiency virus 2"
+                     /proviral=""
+                     /isolate="BEN"
+                     /db_xref="taxon:11709"
+                     /clone="MK[2,6]."
+     Protein         1..257
+                     /product="nef protein"
+                     /calculated_mol_wt="29780"
+     Region          2..235
+                     /region_name="F-protein"
+                     /note="Negative factor, (F-Protein) or Nef; pfam00469"
+                     /db_xref="CDD:425700"
+     CDS             1..257
+                     /locus_tag="HIV2gp8"
+                     /coded_by="NC_001722.1:9120..9893"
+                     /db_xref="GeneID:1724715"
+ORIGIN
+        1 mgasgskkls khsrglrerl lrargdgygk qrdasggeys qfqeesgreq nspscegqqy
+       61 qqgeymnspw rnpaterqkd lyrqqnmddv dsddddligv pvtprvprre mtyklaidms
+      121 hfikekgglq gmfysrrrhr ildiylekee giipdwqnyt hgpgvrypmy fgwlwklvsv
+      181 elsqeaeede anclvhpaqt srhddehget lvwqfdsmla ynykaftlyp eefghksglp
+      241 ekewkaklka rgipyse
+//

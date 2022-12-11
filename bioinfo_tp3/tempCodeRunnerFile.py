@@ -1,0 +1,1 @@
+list(SeqIO.parse(file_path), "genbank")

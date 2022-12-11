@@ -1,0 +1,71 @@
+LOCUS       YP_009028572             189 aa            linear   VRL 13-AUG-2018
+DEFINITION  Asp [Human immunodeficiency virus 1].
+ACCESSION   YP_009028572
+VERSION     YP_009028572.1
+DBLINK      BioProject: PRJNA485481
+KEYWORDS    RefSeq.
+SOURCE      Human immunodeficiency virus 1 (HIV-1)
+  ORGANISM  Human immunodeficiency virus 1
+            Viruses; Riboviria; Pararnavirae; Artverviricota; Revtraviricetes;
+            Ortervirales; Retroviridae; Orthoretrovirinae; Lentivirus.
+DBSOURCE    REFSEQ: accession NC_001802.1
+REFERENCE   1  (residues 1 to 189)
+  AUTHORS   Martoglio,B., Graf,R. and Dobberstein,B.
+  TITLE     Signal peptide fragments of preprolactin and HIV-1 p-gp160 interact
+            with calmodulin
+  JOURNAL   EMBO J. 16 (22), 6636-6645 (1997)
+   PUBMED   9362478
+REFERENCE   2  (residues 1 to 189)
+  AUTHORS   Petropoulos,C.J.
+  TITLE     Appendix 2: Retroviral taxonomy, protein structure, sequences, and
+            genetic maps
+  JOURNAL   (in) Coffin,J.M. (Ed.); RETROVIRUSES: 757; Cold Spring Harbor
+            Laboratory Press, Cold Spring Harbor, New York, NY, USA (1997)
+REFERENCE   3  (residues 1 to 189)
+  CONSRTM   NCBI Genome Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-AUG-2002) National Center for Biotechnology
+            Information, NIH, Bethesda, MD 20894, USA
+REFERENCE   4  (residues 1 to 189)
+  AUTHORS   Chappey,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (15-MAR-1999) NIH, NLM, Rockville Pike, Bethesda, MD
+            20894, USA
+  REMARK    Sequence update by submitter
+REFERENCE   5  (residues 1 to 189)
+  AUTHORS   Chappey,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-NOV-1997) NIH, NLM, Rockville Pike, Bethesda, MD
+            20894, USA
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to final
+            NCBI review. The reference sequence is identical to
+            NC_001802:6919-7488.
+            The annotation of this sequence was corrected and updated with the
+            kind help of Dr. Colombe Chappey (ViroLogic Inc., South San
+            Francisco, CA USA) and Roger Ptak (Southern Research Institute,
+            Frederick, MD USA).
+            Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..189
+                     /organism="Human immunodeficiency virus 1"
+                     /db_xref="taxon:11676"
+                     /note="strain for reference annotation"
+     Protein         1..189
+                     /product="Asp"
+                     /name="minus-strand-encoded antisense protein of unknown
+                     function; region is highly conserved and likely analogous
+                     to the HTLV-1 encoded, HBZ, a nuclear basic region leucine
+                     zipper (b-ZIP) protein"
+                     /experiment="EXISTENCE:[PMID:23427159 ]"
+                     /calculated_mol_wt="20104"
+     CDS             1..189
+                     /gene="asp"
+                     /locus_tag="HIV1gp10"
+                     /coded_by="complement(NC_001802.1:6919..7488)"
+                     /db_xref="GeneID:19424028"
+ORIGIN
+        1 mpqtvscnrc ccasialskl fccctipdnn clactvsvie aapivlpaap knprnkapip
+       61 talfslcttl lfalvgatpn gsifttlyly nsllqlslis pppglkisds llllppslvn
+      121 sspvifdehl icplmggayi afptfchmfi icfilhgrvi vslpsvlfdp svlqvllnqv
+      181 llnscvelq
+//

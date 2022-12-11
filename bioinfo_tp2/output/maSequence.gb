@@ -1,0 +1,255 @@
+LOCUS       U04991.1                4365 bp    DNA              UNK 01-JAN-1980
+DEFINITION  U04991.1 Simian immunodeficiency virus clone SIVsm62F vpx gene,
+            partial cds, env, nef, tat and rev genes, complete cds..
+ACCESSION   U04991
+VERSION     U04991.1
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 ttcgaatggc taaacagaac agtagaagga ataaacaggg cagcagtaaa tcacctgccg
+       61 agagagctaa ttttccaggt ttggcgaagg tcctgggaat actggcatga tgaaatgggg
+      121 atgtcagaaa gctacacaaa atatagatac ttgtgcttga tacagaaagc tctgtttgtg
+      181 cattgcaaga gagggtgtag gtgcttagga gaggagcatg aggcaggggg atggagaaca
+      241 gggcctcctc ctcctccccc tccaggacta gcataaaatg gcagaaagac ctccagaaga
+      301 tgaagcccca cagagggaac catgggatga atgggtagtg gaagttctgg aggaaataaa
+      361 agaagaagcc ctgaaacatt ttgatcctcg cttgctaact gcgcttggta actatattta
+      421 tgatagacat ggagacaccc ttgaaggagc aggagaactc attagaatcc tgcagagagc
+      481 actcttcatc catttcagaa gtggatgtgc ccactccaga atcggccaat ctagaggagg
+      541 aaatcctcta tcaactattc cgccctctag aggcatgcta taacaagtgc tactgtaaga
+      601 ggtgttgcta tcattgtcag cattgttttc ttaaaaaggg tttgggaata tgctatgagc
+      661 agcaccgaag aagaactccg aaaaagacta aggctaatcc acttcctgca tcaaacaagt
+      721 aagtatggga tgtcttggga atcagctgct tatcgcgctc ttgctagtaa gtgttttaga
+      781 gatttattgt gttcaatatg taacagtata ctatggtgta ccagcatgga ggaatgcgac
+      841 aattcccctc ttctgtgcaa ccaggaatag ggacacttgg ggaacaacac aatgcttgcc
+      901 agataatgat gattactcag aattggcaat caatatcaca gaggcttttg atgcttggaa
+      961 taatacagtc acagaacaag caatagagga tgtgtggaac ctctttgaaa catccattaa
+     1021 gccctgtgta aaactcaccc cactatgtat agcaatgaga tgtaataaaa ctgagacaga
+     1081 taggtggggt ttgacaggaa acgcagggac aacaacaaca acgaaatcaa cagcatcatc
+     1141 aacaacaaca acagtagcac caagtgtaac agaaagtgtt ataaatgaaa gtgatccttg
+     1201 cataaaaaat aatagttgtg caggcttgga acaggagccc atgataggtt gtaaatttaa
+     1261 catgacaggg ttaaaaagag acaaaaagat agaatataat gaaacatggt atttaagaga
+     1321 tctaatctgt gagcagtcag tgaatgaaag tgaaagtaaa tgttacatgc agcattgtaa
+     1381 caccagtgtt attcaggaat cctgtgacaa gcattattgg gatgctatta gatttagata
+     1441 ttgtgcaccg ccaggttatg ctttgcttag gtgtaatgat tcaaattatt caggctttgc
+     1501 tcctaactgt tctaaggtag tggtttcttc atgcacaaga atgatggaaa cgcaaacctc
+     1561 tacttggttt ggcttcaatg gtactagagc agaaaataga acatacattt attggcatgg
+     1621 caaaagtaat agaaccataa ttagcttaaa taagtattat aatctaacaa tgagatgtag
+     1681 aagaccagga aataagacag ttttaccagt caccattatg tcagggttgg tcttccattc
+     1741 gcaacccata aatgagagac caaaacaggc ctggtgccgg tttgggggaa gctggaaaga
+     1801 ggccatccag gaagtgaagg aaaccttggt caaacatccc aggtatacgg gaactaatga
+     1861 tactaagaaa attaatctaa cagctccagc gggaggagat ccagaagtca cttttatgtg
+     1921 gacaaattgt cgaggagaat tcttatattg caaaatgaat tggtttctta attgggtaga
+     1981 ggacagagac caaaagggta gcagatggaa acaacaaaaa aggcaagaac gacagaagaa
+     2041 aaattatgtg ccatgtcata ttagacaaat aatcaacacg tggcacaaag taggcaaaaa
+     2101 tgtatatttg cctcctaggg aaggagacct gacatgtaat tccactgtaa ctagtctcat
+     2161 agcagagata gattggacca ataacaatga gaccaatatc accatgagtg cagaggtggc
+     2221 agaactgtat cgattggagt tgggagatta caaattagta gagattactc caattggctt
+     2281 ggcccccaca agtgtaagaa ggtacaccac aactggtgcc tcaagaaata agagaggggt
+     2341 ctttgtgcta gggttcttgg gttttctcgc gacagcaggt tctgcaatgg gcgcggcgtc
+     2401 cgtgacgctg tcggctcagt cccggacttt gttggctggg atagtgcagc aacagcaaca
+     2461 gctgttggat gtggtcaaga gacaacaaga attgttgcga ctgaccgtct ggggaactaa
+     2521 gaacctccag actagagtca ctgctatcga gaagtacctg aaggatcagg cgcagctaaa
+     2581 ttcatgggga tgtgctttta ggcaagtctg tcacactact gtaccatggc caaatgaaac
+     2641 attggtgcct aattggagca atatgacttg gcaagagtgg gaaagacagg ttgacttcct
+     2701 agaggcaaat ataactcaat tattagaaga agcacaaatt cagcaagaaa agaatatgta
+     2761 tgaattgcaa aaattaaata gctgggatat ctttggcaat tggtttgacc ttacttcttg
+     2821 gataggatat atacaatatg gtgtactaat agttttagga gtagtagggt taagaatagt
+     2881 aatatatgta gtgcagatgt tagctaggtt aagacagggt tataggccag tgttctcttc
+     2941 ccctcccgct tatgttcagc agatccctat ccacaagggc caggaaccgc caaccaaaga
+     3001 aggagaagaa ggagaaggtg gagacagagg tggcagcgga tcttggcctt ggcagataga
+     3061 atatattcat ttcctgatcc gccaactgat acgcctcttg acttggctat tcagcagctg
+     3121 cagggattgg ctattgagga cctaccagat cctccaacca gtgctccaga gcctctcaac
+     3181 gacgttgcaa agagtccgtg aagtcatcag aattgaaata gcttacctac aatatgggtg
+     3241 gcgttatttc caagaagcag cacaggcgtg gtggaaattt gcgcgagaga ctcttgcgag
+     3301 cgcgtggaga gacatatggg agactctggg aagggttgga agagggatac tcgcaatccc
+     3361 taggcgcgtc aggcaagggc ttgagctcgc tctcttgtga gcctcagaaa tatagtgagg
+     3421 gacaatatat gaacaccccc tggaggaacc cagcaacaga aaaagcaaaa ttaggttata
+     3481 gacaacaaaa catggatgat gtggatgatg aagatgataa cttagtaggt gtctcagtgc
+     3541 acccaagagt ccccttaagg gccatgacat acaaattggc aatagacatg tctcatttta
+     3601 taaaagaaaa ggggggactg gaagggattt attacaatga gaaaagacat agaatattag
+     3661 atatgtacat ggaaaaggaa aaaggcataa taccagattg gcaaaattac acatcagggc
+     3721 caggaattag ataccctatg cactatgggt ggctctggaa attagtccca gtagatgtct
+     3781 cagatgaagc ccaggaagac gaggcacatt gcctggtgca tccggcacag actcatcagt
+     3841 gggatgaccc ctggggagag gtactggcat ggaagtttga tccagaatta gcttatagct
+     3901 ataaggcatt tattaagtac ccagaagagt ttggtagtaa gtcaggcttg tcagaggaag
+     3961 aggtaaagag aaggctaacc gcaagaggcc tttataaaat ggctgacaag agggaaacaa
+     4021 gctgagacag cagggacttt ccacaagggg ctgtcatggg gaggtactgg ggaggagctg
+     4081 gttggaacgc ccacttattc tctgtataaa tacaactgca tttcgctctg tattcagtcg
+     4141 ctctgcggag aggctggcag attgagccct gggaggttct ctccagcact agcaggtaga
+     4201 gcctgggtgt tccctgctag actctcacca gcacttggcc ggtgctgggc ggagtggctc
+     4261 cacgcttgct tgcttaaaga cctcttcaat aaagctgcca tttagaagta agcaagtgtg
+     4321 tgttcccatc tctcctagtc gccgcctggt catctcggta ctcga
+//
+LOCUS       U04988.1                4352 bp    DNA              UNK 01-JAN-1980
+DEFINITION  U04988.1 Simian immunodeficiency virus clone SIVsm62H vpx gene,
+            partial cds, env, nef, tat and rev genes, complete cds..
+ACCESSION   U04988
+VERSION     U04988.1
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 ttcgaatggc taaacagaac agtagaagga ataaacaggg cagcagtaaa tcacctgccg
+       61 agggagctaa ttttccaggt ttggcgaagg tcctgggaat actggcatga tgaaatgggg
+      121 atgtcagaaa gttacacaaa atatagatac ttgtgcttga tacagaaagc tctgttcgtg
+      181 cattgcaaga aagggtgtag gtgcttagga gaagggcatg gggcaggggg atggagaaca
+      241 gggcctcctc ctcctccccc tccaggacta gcataaaatg gcagaaagac ctccagaaga
+      301 tgaagcccca cagagggaac catgggatga atgggtagtg gaagttctgg agaaattaag
+      361 ggaagaagcc ctgaaacatt ttgatcctcg cttgctaact gcgcttggta actatattta
+      421 tgatagacat ggagacaccc ttgaaggagc aggagaactc attagaatcc tgcagagagc
+      481 actcttcatc catttcagaa gtggatgtgc ccactccaga atcggccaat ctagaggagg
+      541 aaatcctcta tcaactattc cgccctctag aggcatgcta taacaagtgc tactgtaaga
+      601 ggtgttgcta tcattgtcag cattgttttc ttaaaaaggg tttgggaata tgctatgagc
+      661 agcaccgaag aagaactccg aaaaagacta aggctaatcc acttcctgca tcaaacaagt
+      721 aagtatggga tgtcttggga atcagctgct tatcgcgctc ttgctagtaa gtgctttaga
+      781 gatttattgt gttcaatatg taacagtatt ctatggtgta ccagcatgga ggaatgcgac
+      841 aattcccctc ttctgtgcaa ccaggaatag ggacgcttgg ggaacaacac aatgcttgcc
+      901 agataatgat gattactcag aattggcagt caatatcaca gaggcttttg atgcttggaa
+      961 taatacagtc acagaacaag caatagagga tgtgtggaac ctctttgaaa catccattaa
+     1021 gccctgtgta aaactcaccc cactatgtat agcaatgaga tgtaataaaa ctgagacaga
+     1081 taggtggggt ttgacaggaa gcgcaacaat aaggacacca ccaacatcaa caacaacaac
+     1141 agtagcacca agtgtaacag aacatgttat aaatgaaaat gatccttgca taaaaaatag
+     1201 taattgtgca ggcttggaac aggagcccat gataggttgt aaatttaaca tgacagggtt
+     1261 aaaaagggac aaaaagaaag aatataatga aacatggtat tcaagagatt taatctgtga
+     1321 gcagtcagcg aatgaaagtg agagtaaatg ttacatgcag cattgtaaca ccagtgttat
+     1381 tcgggaatcc tgtgacaagc attattggga tgctattaga tttagatatt gtgcaccgcc
+     1441 aggttatcct ttgcttaggt gtaatgactc aaattattca ggctttgctc ctaactgctc
+     1501 taaggtagtg gtttcttcat gcacaagaat gatggagacg caaacctcta cttggtttgg
+     1561 cttcaatggt actagagcag aaaatagaac atacatttat tggcatggca aaagtaatag
+     1621 aaccataatt agcttaaata agtattataa tctaacaatg agatgtagaa gaccaggaaa
+     1681 taagacagtt ttaccagtca ccattatgtc agggttggtc ttccattcgc aacccataaa
+     1741 tgagagacca aaacaggcct ggtgctggtt tggaggaagc tggaaagagg ccatccagga
+     1801 agtgaaggaa accttggtca aacatcccag gtatacggga actaatgata ctaagaaaat
+     1861 taatctaaca gctccagcaa gaggagatcc agaagtcact tttatgtgga caaattgtcg
+     1921 aggagaattc ttatactgca aaatgaattg gtttcttaat tgggtagagg acagagacca
+     1981 aaaaggtggc agatggatac aacaaaaaaa gagtgagcaa cagaagagaa attatgtgcc
+     2041 atgtcatatt agacaaataa tcaacacgtg gcacaaagta ggcaaaaatg tgtatttgcc
+     2101 tcctagggaa ggagacctga catgtaattc cactgtaact agtctcatag caaagataga
+     2161 ttggaccaat aacaatgaga ccaatatcac catgagtgca gaggtggcag aactgtatcg
+     2221 attggagttg ggagattaca aattagtaga gattactcca attggcttgg cccccacaag
+     2281 tgtaagaagg tacaccacaa ctggtgcctc aagaaataag agaggggtct ttgtgctagg
+     2341 gttcttgggt tttctcgcga cagcaggttc tgcaatgggc gcggcgtccg tgacgctgtc
+     2401 ggctcagtcc tggactttgt tggctgggat agtgcagcaa cagcaacagc tgttggatgt
+     2461 ggtcaagaga caacaagaat tgttgcgact gaccgtctgg ggaactaaga acctccagac
+     2521 tagagtcact gctatcgaga agtacctgaa ggatcaggcg cagctaaatt catggggatg
+     2581 tgcttttagg caagtctgtc acactactgt accatggcca aatgaaacat tggtgcccaa
+     2641 ttggaacaat atgacttggc aagagtggga aagacaggtt gacttcctag aggcaaatat
+     2701 aactcaatta ttagaagaag cacaaattca gcaagaaaag aatatgtatg aattgcaaaa
+     2761 attaaatagc tgggatatct ttggcaattg gtttgacctt acttcttgga taggatatat
+     2821 acaatatggt gtactaatag ttttaggagt agtagggtta agaatagtaa tatatgtagt
+     2881 gcagatgtta gctaggttaa gacagggtta taggccagtg ttctcttccc ctcccgctta
+     2941 tgttcagcag atccctatcc acaagggcca ggaaccgcca accaaagaag gagaagaagg
+     3001 agaaggtgga gacagaggtg gcagcagatc ttggccttgg cagatagaat atattcattt
+     3061 cctaatccgc cagctgatac gcctcttgac ttggctattc agcagctgca gggattggct
+     3121 attgaggagc taccagattc tccaaccagt gctccagagc ctctcaacga cgctgcaaag
+     3181 agttcgtgaa gtcatcagaa ttgaaataac ctacctacaa tatgggtggc gctatttcca
+     3241 agaagcagta caggcgtggt ggaaatttgc gcgagagact cttgcgagcg cgtggagaga
+     3301 catatgggag actctgggaa gggttggaag agggatactc gcaatcccta ggcgcgtcag
+     3361 gcaagggctt gagctcactt tcttgtgagc ctcagaaata tagtgaggga caatatatga
+     3421 ataccccctg gaggaaccca gcagcagaaa gagcaaaatt aggttataga caacaaaaca
+     3481 tggatgatgt ggatgatgaa gatgatgact tagtaggtgt ctcagtgcat ccaaaagtcc
+     3541 ccttaagggc catgacatac aaattggcaa tagacatgtc tcattttata aaagaaaagg
+     3601 ggggactgga agggatttat tacaatgaga gaagacatag aatattagat atgtacatgg
+     3661 aaaaggaaga aggaataata ccagattggc aaaattacac atcagggcca ggaactagat
+     3721 accctatgta ctttgggtgg ctccggaaat tagtcccagt agatgtctca gatgaggccc
+     3781 aggaagacga gacacattgc ctggtgcatc cagcacagac tcatcagtgg gatgacccct
+     3841 ggggagaggt actgggatgg aagtttgatc cagaattagc ttatagctat aaggcattta
+     3901 ttaagtaccc agaagagttt ggtagtaagt caggcttgtc agaggaagag gtaaagagaa
+     3961 ggctaaccgc aagaggcctt tataaaatgg ctgacaagag ggaaacaagc tgagacagca
+     4021 gggactttcc acaaggggct gtcatgggag gtactgggga ggagctggct ggaacgccca
+     4081 cttattctct gtataaatac aactgcattt cgctctgtat tcagtcgctc tgcggagagg
+     4141 ctggcagatt gagccctggg aggttctctc cagcactagc aggtagagcc tgggtgttcc
+     4201 ctgctagact cccaccagca cttggccggt gctgggcaga gtggctccac gcttgcttgc
+     4261 ttaaagacct cttcaataaa gctgccattt agaagtaagc aagtgtgtgt tcccatctct
+     4321 cctagtcgcc gcctggtcat ctcggtactc ga
+//
+LOCUS       U04987.1                4353 bp    DNA              UNK 01-JAN-1980
+DEFINITION  U04987.1 Simian immunodeficiency virus clone SIVsm62D vpx gene,
+            partial cds, env, nef, tat and rev genes, complete cds..
+ACCESSION   U04987
+VERSION     U04987.1
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 ttcgaatggc taaacagaac agtagaagga ataaacaggg cagcagtaaa tcacctgccg
+       61 agggagctaa ttttccaggt ttggcgaagg tcctgggaat actggcatga tgaaatgggg
+      121 atgtcagaaa gttacacaaa atatagatac ttgtgcttga tacagaaagc tctatttgtg
+      181 cattgcaaga aagggtgtag gtgcttagga gaagggcatg gggcaggggg atggagaaca
+      241 gggcctcctc ctcctccccc tccaggacta gcataaaatg gcagaaagac ctccagaaga
+      301 tgaagcccca cagagggaac catgggatga atgggtagtg gaagttctgg aggaaataaa
+      361 agaagaagcc ctgaaacatt ttgatcctcg cttgctaact gcgcttggta actatattta
+      421 tgatagacat ggagacaccc ttgaaggagc aggagaactc attagaatcc tgcagagagc
+      481 actcttcatc catttcagaa gtggatgtgc ccactccaga atcggccaat ctagaggagg
+      541 aaatcctcta tcaactattc cgccctctag aggcatgcta taacaagtgc tactgtaaga
+      601 ggtgttgcta tcattgtcag cattgttttc ttaaaaaggg tttgggaata tgctatgagc
+      661 agcaccgaaa aagaactccg aagaagacta aggctaatcc acttcctgca tcaaacaagt
+      721 aagtatggga tgtcttggga atcagctgct tatcgcgctc ttgctagtaa gtgttttaga
+      781 gatttattgt gttcaatatg taacagtatt ctatggtgta ccagcatgga ggaatgcgac
+      841 aattcccctc ttctgtgcaa ccaggaatag ggacacttgg ggaacaacac aatgcttgcc
+      901 agataatgat gattactcag aattggcagt caatatcaca gaggcttttg atgcttggaa
+      961 taatacagtc acagaacaag caatagagga tgtgtggaac ctctttgaaa catccattaa
+     1021 gccctgtgta aaactcaccc cactatgtat agcaatgaga tgtaataaaa ctgagacaga
+     1081 taggtggggt ttgacaggaa gcgcaacaat aaggacacca ccaacatcaa caacaacaac
+     1141 agtagcacca agtgtaacag aacatgttat aaatgaaagt gatccttgca taaaaaataa
+     1201 taattgtgca ggcttggaac aggagcccat gataggttgt aaatttaaca tgacagggtt
+     1261 aaaaagggac aaaaagatag aatataatga aacatggtat tcaagagatt taatctgtga
+     1321 gcagtcagcg aatgaaagtg agagtaaatg ttacatgcag cattgtaaca ccagtgttat
+     1381 tcaagaatcc tgtgacaagc attattggga tgctattaga tttagatatt gtgcaccgcc
+     1441 aggttatcct ttgcttaggt gtaatgattc aaattattca ggctttgctc ctaactgttc
+     1501 taaggtagtg gtttcttcat gcacaagaat gatggagacg caaacctcta cttggtttgg
+     1561 cttcaatggt actagggcag aaaatagaac atacatttat tggcatggca aaagcaatag
+     1621 aaccataatt agcttaaata agtattataa tctaacaatg agatgtagaa gaccaggaaa
+     1681 taagacagtt ttaccagtca ccattatgtc agggttgatc ttccattcgc aactcataaa
+     1741 tgagagacca aaacaggcct ggtgccggtt tggaggaagc tggaaagagg ccatccagga
+     1801 agtgaaggaa accttggtca aacatcccag gtatacggga actaatgata ctaagaaaat
+     1861 taatctaaca gctccagcag gaggagatcc agaagtcact tttatgtgga caaattgtcg
+     1921 aggagaattc ttatattgca aaatgaattg gtttcttaat tgggtagagg acagagacca
+     1981 aaagggtagc agatggaaac aacaaaaaag gcaagagcaa cagaagagaa attatgtgcc
+     2041 atgtcatatt agacaaataa tcaacacgtg gcacaaagta ggcaaaaatg tatatttgcc
+     2101 tcctagggaa ggagacctga catgcaattc cactgtaact agtctcatag cagagataga
+     2161 ttggatcaat agcaatgaga ccaatatcac catgagtgca gaggtggcgg aactgtatcg
+     2221 attggagttg ggagattaca aattagtaga gattactcca attggcttgg cccccacaag
+     2281 tgtaagaagg tacaccacaa ctggtgcctc aagaaataag agaggggtct ttgtgctagg
+     2341 gttcttgggt tttctcgcga cagcaggttc tgcaatgggc gcggcgtccg tgacgctgtc
+     2401 ggctcagtcc cggactttgt tggctgggat agtgcagcaa cagcaacagc tgttggatgt
+     2461 ggtcaagaga caacaagaat tgttgcgact gaccgtctgg ggaactaaga acctccagac
+     2521 tagagtcact gctatcgaga agtacctgaa ggatcaggcg cagctaaatt catggggatg
+     2581 tgcttttagg caagtctgtc acactactgt accatggcca aatgaaacat tggtgcctaa
+     2641 ttggagcaat atgacttggc aagagtggga aagacaggtt gacttcctag aggcaaatat
+     2701 aactcaatta ttagaagaag cacaaattca gcaagaaaag aatatgtacg aattgcaaaa
+     2761 attaaatagc tgggatatct ttggcaattg gtttgacctt acttcttgga taagatatat
+     2821 acaatatggt gtactaatag ttttaggagt agtagggtta agaatagtaa tatatgtagt
+     2881 gcagatgtta gctaggttaa gacagggtta taggccagtg ttctcttccc ctcccgctta
+     2941 tgttcagcag atccctatcc acaagggccg ggaaccgcca accaaagaag gagaagaagg
+     3001 agacggtgga gacagaggtg gcaacagatc ttggccttgg cagatagaat atattcattt
+     3061 cctaatccgc cagctgatac gcctcttgac ttggctattc agcagctgca gggattggct
+     3121 attgaggagc taccagatcc tccagccagt gctccagagc ctctcaacga cgttgcaaag
+     3181 agtccgtgaa gtcatcagaa ttgaaataac ctacctacaa tatgggtggc gctatttcca
+     3241 agaagcagta caggcgtggt ggaaatttgc gcgagagact cttgcgagcg cgtggagaga
+     3301 catatgggag actctgggaa gggttggaag agggatactc gcaatcccta ggcgcatcag
+     3361 gcaagggctt gagctcactc tcttgtgagc ctcagaaata tagtgaggga caatatatga
+     3421 ataccccctg gaggaaccca gcagcagaaa aagcaaaatt aggttataga caacaaaaca
+     3481 tggatgatgt ggatgatgaa gatgataact tagtaggtgt ctcagtgcac ccaagagtcc
+     3541 ccttaagggc catgacatac aaattggcaa tagacatgtc tcattttata aaagaaaagg
+     3601 ggggactgga agggatttat tacaatgaga aaagacatag aatattagat atgtacatgg
+     3661 aaaaggaaga aggaataata ccagattggc aaaattacac attaaaacca ggaattagat
+     3721 accctatgta ctttgggtgg ctctggaaat tagtcccagt agatgtctca gatgaagccc
+     3781 aggaagacga gacacattgc ctggtgcatc cggcacagac ttatcagtgg gatgacccct
+     3841 ggggagaggt actggcatgg aagtttgatc cagaattagc ttatagctat aaggcattta
+     3901 ttaagtaccc agaagagttt ggtagtaagt caggcttgtc agaggaagag gtaaagagaa
+     3961 ggctaaccgc aagaggcctt tataaaatgg ctgacaagag ggaaacaagc tgagacagca
+     4021 gggactttcc acaaggggct gtcatgggga ggtactgggg aggagctggc tggaacgccc
+     4081 acttattctc tgtataaata caactgcatt tcgctctgta ttcagtcgct ctgcggagag
+     4141 gctggcagat tgagccctgg gaggttctct ccagcactag caggtagagc ctgggtgttc
+     4201 cctgctagac tctcaccagc acttggccgg cgctgggcag agtggctcca cgcttgcttg
+     4261 cttaaagacc tcttcaataa agctgccatt tagaagtaag caagtgtgtg ttcccatctc
+     4321 tcctagtcgc cgcctggtca tctcggtact cga
+//

@@ -1,0 +1,6 @@
+##gff-version 3
+NM_00314e	GenBank 	gene	1	4500	.	+	.	ID=gene;Name=AZQ;Dbxref=GeneID:779897
+NM_00314e	GenBank 	exon	1	1500	.	+	.	ID=exon1;Name=AZQ.1;Parent=gene;note=chromobox homolog 8
+NM_00314e	GenBank 	exon	3000	4500	.	+	.	ID=exon2;Parent=gene;Name=AZQ.2
+NM_00314e	GenBank 	intron	1501	2999	.	+	.	ID=intron1;Parent=gene
+NM_00314e	GenBank 	snp	3080	3080	.	+	.	ID=snp1;Parent=gene
